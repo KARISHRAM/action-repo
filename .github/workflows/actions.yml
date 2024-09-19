@@ -16,4 +16,4 @@ jobs:
         uses: actions/checkout@v2
       - name: Push action notification
         run: |
-          echo "Push or Pull Request event triggere"
+          echo "Push or Pull Request event triggered"
